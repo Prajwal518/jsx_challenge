@@ -1,6 +1,6 @@
 //Create a react app from scratch.
-var React = require("react");
-var ReactDom = require("react-dom");
+var React = require("react"); //import React from "react";
+import ReactDom from "react-dom"; //var ReactDom = require("react-dom");
 //It should display a h1 heading.
 ReactDom.render(
   <div>
